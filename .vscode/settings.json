@@ -1,2 +1,8 @@
 {
+    "workbench.colorTheme": "Default Dark Modern",
+    "C_Cpp.default.compilerPath": "c:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+    
+    "markdown-preview-enhanced.usePandocParser": true,
+	"markdown-preview-enhanced.mathRenderingOption": "MathJax",
+    "markdown-preview-enhanced.scrollSync": false,
 }
